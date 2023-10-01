@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentNhar/comp3123_wk04_exercise.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
